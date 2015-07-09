@@ -1,11 +1,8 @@
 package database;
 
 import java.sql.CallableStatement;
-//import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
-//import java.util.HashMap;
-//import java.util.Map;
 import java.sql.ResultSet;
 
 public class DatabaseProcedureCalls{
